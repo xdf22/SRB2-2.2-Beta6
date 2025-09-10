@@ -4321,6 +4321,7 @@ static void Skin_OnChange(void)
 
 	if (CanChangeSkin(consoleplayer) && !P_PlayerMoving(consoleplayer))
 		SendNameAndColor();
+		CV_StealthSet(&cv_skin, skins[players[consoleplayer].skin].name);
 	else
 	{
 		CONS_Alert(CONS_NOTICE, M_GetText("You can't change your skin at the moment.\n"));
