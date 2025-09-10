@@ -1,6 +1,6 @@
 this is only the build itself, to play you need assets <br>
 https://drive.google.com/drive/folders/1PtGSiDdzUcyCFolLX8Z-DYkBfXeJZrl9?usp=sharing
-(not 100% complete btw)
+(included in the releases)
 
 
 # Sonic Robo Blast 2
@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1PtGSiDdzUcyCFolLX8Z-DYkBfXeJZrl9?usp=sha
 
 ## Compiling
 
-See [SRB2 Wiki/Source code compiling](http://wiki.srb2.org/w/index.php?title=Source_code_compiling/Makefiles&oldid=102514)
+See [SRB2 Wiki/Source code compiling](http://wiki.srb2.org/w/index.php?title=Source_code_compiling/Makefiles&oldid=102514) (old revision of the makefiles page that still works)
 
 ## Disclaimer
 Sonic Team Junior is in no way affiliated with SEGA or Sonic Team. We do not claim ownership of any of SEGA's intellectual property used in SRB2.
